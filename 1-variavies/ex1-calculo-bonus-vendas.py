@@ -5,6 +5,8 @@ após subtrair esse bônus.
 ● Faturamento inicial: 50.000
 ● Percentual de bônus: 0.10'''
 
+#comentário teste
+
 # Funções:
 def calcular_faturamento_bonus(faturamento, percentual_bonus):
     percentual = faturamento * percentual_bonus
